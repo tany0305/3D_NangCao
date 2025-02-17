@@ -485,9 +485,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   terrain: {fileID: 425448986}
-  treePrefab: {fileID: 4522537107456461547, guid: 7f72c76c87dff5149967072a8aabddef,
+  treePrefab: {fileID: 3435643351429671060, guid: fd5ab67aa510888499f842d51f660a4a,
     type: 3}
-  treeCount: 5000
+  treeCount: 50
 --- !u!114 &425448989
 MonoBehaviour:
   m_ObjectHideFlags: 0
